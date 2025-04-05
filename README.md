@@ -1,2 +1,1 @@
-# Python 
- Hackathon April 2025
+# Python Hackathon April 2025
